@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "empregador": {
+      "nome": "Empresa A",
+      "cnpj": "00.000.000/0001-01",
+      "endereco": "Rua A, 123, Cidade A"
+    },
+    "funcionarios": [
+      {
+        "id": 1,
+        "nome": "Ana",
+        "cargo": "Engenheira",
+        "salario_bruto": 6000,
+        "dias_horas_trabalhadas": 22,
+        "horas_extras": 12,
+        "adiantamentos": 0
+      },
+      {
+        "id": 2,
+        "nome": "Pedro",
+        "cargo": "Analista de Dados",
+        "salario_bruto": 5500,
+        "dias_horas_trabalhadas": 22,
+        "horas_extras": 8,
+        "adiantamentos": 0,
+        "insalubridade": 1
+      },
+      {
+        "id": 3,
+        "nome": "Mariana",
+        "cargo": "Arquiteta",
+        "salario_bruto": 7000,
+        "dias_horas_trabalhadas": 22,
+        "horas_extras": 15,
+        "adiantamentos": 0,
+        "auxiliocreche": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "empregador": {
+      "nome": "Empresa B",
+      "cnpj": "00.000.000/0002-02",
+      "endereco": "Rua B, 456, Cidade B"
+    },
+    "funcionarios": [
+      {
+        "id": 4,
+        "nome": "João",
+        "cargo": "Desenvolvedor",
+        "salario_bruto": 5000,
+        "dias_horas_trabalhadas": 21,
+        "horas_extras": 10,
+        "adiantamentos": 0
+      },
+      {
+        "id": 5,
+        "nome": "Maria",
+        "cargo": "Designer",
+        "salario_bruto": 4000,
+        "dias_horas_trabalhadas": 20,
+        "horas_extras": 8,
+        "adiantamentos": 0
+      },
+      {
+        "id": 6,
+        "nome": "José",
+        "cargo": "Gerente",
+        "salario_bruto": 6000,
+        "dias_horas_trabalhadas": 24,
+        "horas_extras": 15,
+        "adiantamentos": 0
+      },
+      {
+        "id": 7,
+        "nome": "Maicon",
+        "cargo": "Auxiliar",
+        "salario_bruto": 1500,
+        "dias_horas_trabalhadas": 21,
+        "horas_extras": 5,
+        "adiantamentos": 0
+      }
+    ]
+  }
+]
